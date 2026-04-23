@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">I'm Mateus Antonio Daniel<br>Cibersecurity student at PUCPR - Pontifícia Universidade Católica do Paraná</p>
+<p align="center">I'm Mateus Antonio Daniel<br>IA researcher and Cibersecurity student at PUCPR - Pontifícia Universidade Católica do Paraná</p>
 
 ###
 
